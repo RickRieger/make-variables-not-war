@@ -2,10 +2,10 @@
  * YOUR CODE BELOW *
  ******************/
 
-let myFirstName = `Rick`;
-let  myLastName =`Rieger`;
-let  myBestFriend =`Brian`;
-let  mySentence =`My name is`+ myFirstName + myLastName + "and my best friend is" + myBestFriend;
+let myFirstName = 'Rick';
+let myLastName = 'Rieger';
+let myBestFriend = 'Brian';
+let mySentence = `My name is ${myFirstName} ${myLastName} and my best friend is ${myBestFriend}.`;
 let myFavoriteNum = 18;
 let myMentalAge = 30;
 let myHeight = 69;
